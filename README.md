@@ -6,8 +6,8 @@
 
 <p align="center">
   <em>
-    Myself <b>Ayush Agarwal</b>, a final year <b>Information Technology</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    Myself <b>Ayush Agarwal</b>, a final year <b>Information Technology</b> undergraduate from <b>Birsa Insitute of Technology</b>, Sindri.
+    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
