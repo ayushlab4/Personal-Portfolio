@@ -15,10 +15,10 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
+- 🔭 I’m currently working on Web Development, Data Analysis.
 - 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ Fun fact: I love Sports, especially Cricket and also love Solving Complex Problems.
 <br>
 
 ---
