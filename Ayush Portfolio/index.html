@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Website - Ayush Agarwal</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/fa8abffe6e.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="images/back.jpg" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Web Developer | Coding Enthusiast | <p>Creative Problem Solver </p> </p>
+                <h1>Hi, I'm <span>Ayush</span><br>Agarwal From India</h1>
+            </div>
+        </div>
+    </div>
+    <!------------about----------->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/Ayush 2.jpg">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>
+                        👋 Welcome to my personal portfolio website! I'm Ayush Agarwal, a third-year IT student with a passion for coding and web development.
+                    </p>
+                    <p>
+                        💻 I have a strong coding profile and expertise in web development. I've worked on various projects, from responsive websites to dynamic web applications. My skills include HTML, CSS, JavaScript, Node.js, and Django.
+                    </p>
+                    <p>
+                        🚀 I love taking on challenging projects that require innovative thinking and attention to detail. I believe in effective communication and teamwork to deliver solutions that exceed expectations.
+                    </p>
+                    <p>
+                        ⏰ Along with my technical skills, I excel in time management and organization. Meeting deadlines and managing projects smoothly are my priorities.
+                    </p>
+                    <p>
+                        📚 I'm always eager to learn new concepts and technologies. Continuous growth and improvement drive me in this fast-paced industry.
+                    </p>
+                    <p>
+                        🔧 This portfolio showcases my projects and accomplishments, highlighting my skills, creativity, and dedication to delivering high-quality results.
+                    </p>
+                    <p>
+                        📩 Feel free to reach out if you have any questions or would like to discuss potential opportunities. Let's collaborate and create something amazing together!
+                    </p>
+                    <p>
+                        Thank you for visiting my portfolio website! 🙏🌟
+                    </p>
+
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>UI/UX</span><br>Designing Web/App interfaces (Adobe XD, Figma).</li>
+                            <li><span>Web Development</span><br>Web app Development</li>
+                            <li><span>Data Analysis and Machine Learning</span><br>Analyze Big Data and Train a Machine Learning Model.</li>
+                            <li><span>Competitive programming</span><br>Solving Data Structures and algorithms problems using C++.</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>(Jun - Current) 2023</span><br>Working on College Training and Placement Record Management System.</li>
+                            <li><span> (Feb - Apr) 2023</span><br>Internship at Aakash + Byju's.</li>
+                            <li><span>(Oct - Nov) 2022</span><br>Internship at Flipkart Supply Chain Academy.</li>
+                            <li><span>(Jul - Sep) 2022</span><br>Internship at Hewlett Packard Enterprise.</li>
+                            
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>2024</span><br>BE/Btech from BIT Sindri, Dhanbad, Jharkhand.</li>
+                            <li><span>2022</span><br>Competitive programming Training at Coding Ninjas.</li>
+                            <li><span>2018</span><br>12th from DAV Public School Moonidih, Dhanbad.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ---------Services---------- -->
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fas fa-code"></i>
+                    <h2>Web Design</h2>
+                    <p>Looking for a visually stunning and user-friendly website? I offer professional web design services 
+                        that create captivating and engaging online experiences.From simple portfolios to complex e-commerce 
+                        platforms, I tailor the design to meet your specific requirements.Your website will look great and function 
+                        seamlessly across all devices, from desktop to mobile. Let's collaborate to create a visually stunning 
+                        website that elevates your online presence. Contact me today to discuss your web design needs!
+                    </p>
+                    <a href="#">Learn more</a>
+                </div>
+                <div>
+                    <i class="fas fa-crop-alt"></i>
+                    <h2>UI/UX Design</h2>
+                    <p>Create exceptional user experiences with my UI/UX design expertise. I specialize in crafting intuitive 
+                        and visually appealing interfaces that delight users.I combine user-centered design principles with the 
+                        latest industry trends to deliver designs that are both functional and aesthetically pleasing.Let's collaborate 
+                        to bring your digital products to life with compelling UI/UX designs. Contact me today to discuss your design 
+                        needs!
+                    </p>
+                    <a href="#">Learn more</a>
+                </div>
+                <div>
+                    <!-- <i class="fab fa-app-store"></i> -->
+                    <i class="fa-solid fa-magnifying-glass-chart"></i>
+                    <h2>Data Analysis and ML</h2>
+                    <p>Leverage the power of data with my expert analysis and machine learning services. I provide actionable insights 
+                        and predictive modeling to help businesses make informed decisions.Using advanced analytics techniques and 
+                        machine learning algorithms, I analyze large datasets to uncover patterns, trends, and correlations. I have 
+                        the skills to turn data into actionable intelligence. From data preprocessing to model training and evaluation, 
+                        I offer comprehensive solutions tailored to your specific needs. Let's unlock the potential of your data together. 
+                        Contact me today to discuss your data analysis and machine learning requirements!
+                    </p>
+                    <a href="#">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ------------Portfolio-------------- -->
+    <div id="portfolio">
+        <div class="container">
+            <h1 class="sub-title">My Work</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="images/work-1.png" alt="work1">
+                    <div class="layer">
+                        <h3>TODO App</h3>
+                        <p>Stay organized, productive, and on top of your tasks with the TODO app. Its intuitive interface and 
+                            robust features help you never miss a deadline or forget a crucial task. Accomplish more with ease.
+                        </p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/work-4.png" alt="work2">
+                    <div class="layer">
+                        <h3>Weather App</h3>
+                        <p>The Weather app keeps you informed about the current weather conditions and forecasts, wherever you are. 
+                            Stay connected to real-time weather updates, plan your activities accordingly, and be prepared for any 
+                            climate changes. Stay ahead of the weather with the Weather app.
+                        </p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/work-2.png" alt="work3">
+                    <div class="layer">
+                        <h3>Personal Tutoring Chatbot</h3>
+                        <p>The Personal Tutoring Chatbot connects you to knowledgeable tutors anytime, anywhere. Gain instant access 
+                            to personalized educational support, guidance, and expertise. Enhance your learning experience and reach 
+                            your academic goals with the Personal Tutoring Chatbot
+                        </p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                </div>
+            </div>
+            <a href="https://drive.google.com/drive/folders/1Qe-0P61oMJh3AVYsCNN0C8UhawRrVkrP?usp=sharing" class="btn">View Certificates <i class="fa-solid fa-trophy"></i> </a>
+        </div>
+    </div>
+<!-- -------------- Contact------------ -->
+<div id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left">
+                <h1 class="sub-title">Contact Me</h1>
+                <p><i class="fas fa-paper-plane"></i> ayushagarwaldnb@google.com</p>
+                <p><i class="fas fa-phone-square"></i> +91 9835312325</p>
+                <div class="social-icons">
+                    <a href="https://m.facebook.com/profile.php?id=100008024945669"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter-square"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/ayush-agarwal-843933221"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.github.com/ayushlab4"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <a href="https://drive.google.com/file/d/169tkeMGcxbNRT2RYFYGk3QGeoEkLm47g/view?usp=sharing" download class="btn btn2">Download CV</a>
+            </div>
+            <div class="contact-right">
+                <form name="submit-to-google-sheet">
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="Email" name="Email" placeholder="Your Email" required>
+                    <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">Submit</button>
+                </form>
+                <span id="msg"></span>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright © Ayush. Lovely Website Made <i class="fas fa-heart"></i> by Ayush Agarwal</p>
+    </div>
+</div>
+
+
+
+
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+        function opentab(tabname) {
+            for (tablink of tablinks) {
+                tablink.classList.remove("active-link");
+            }
+            for (tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+    </script>
+
+    <script>
+
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu(){
+            sidemenu.style.right="0";
+        }
+        function closemenu(){
+            sidemenu.style.right="-200px";
+        }
+
+    </script>
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbzfa2Ss7JQt8yvkNna_NzGeZDk1Q69BZAvRyoJqSBJlFi5CNxwaaF8oqVw2CSo94lFu/exec'
+        const form = document.forms['submit-to-google-sheet']
+        const msg = document.getElementById("msg")
+      
+        form.addEventListener('submit', e => {
+          e.preventDefault()
+          fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => {
+                msg.innerHTML = "Message sent successfully"
+                setTimeout(function(){
+                    msg.innerHTML = ""
+                }, 4000)
+                form.reset()
+            })
+            .catch(error => console.error('Error!', error.message))
+        })
+      </script>
+</body>
+
+</html>
+
+
+<!-- "https://github.com/jamiewilson/form-to-google-sheets" use this to link with google sheet -->
+<!-- "https://github.com/jamiewilson/form-to-google-sheets" use this to link with google sheet-->
