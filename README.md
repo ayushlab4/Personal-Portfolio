@@ -83,8 +83,8 @@
   <a href="mailto:ayushagarwaldnb@gmail.com">
     <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.linkedin.com/in/ayush-agarwal-843933221/">
+    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
    <a href="https://github.com/ayushlab4">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
