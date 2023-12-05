@@ -89,7 +89,7 @@
    <a href="https://github.com/omunite215">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://portfoliobyom.netlify.app/">
+  <a href="https://portfolioayush01.netlify.app/">
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
   <br>
