@@ -77,10 +77,10 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/om-patel-401068143/">
+  <a href="https://www.linkedin.com/in/ayush-agarwal-843933221/">
    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:omunite21@gmail.com">
+  <a href="mailto:ayushagarwaldnb@gmail.com">
     <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.instagram.com/_21omp/">
