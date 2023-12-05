@@ -86,7 +86,7 @@
   <a href="https://www.instagram.com/_21omp/">
     <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/omunite215">
+   <a href="https://github.com/ayushlab4">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <a href="https://portfolioayush01.netlify.app/">
