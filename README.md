@@ -94,5 +94,5 @@
   </a>
   <br>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Om Patel</a></p>
+<p align="right" > Created with 🧡 by <a href="https://github.com/ayushlab4">Ayush Agarwal</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
